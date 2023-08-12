@@ -1,7 +1,3 @@
-/* Its a program that creates a platform for Farming Management System. The platform allows
-farmers to sign up and create their accounts on the system. They login to their account and 
-list the items that they want to sell, on their accounts. The customers can see the details
-of all the farmers along with the items available. They can buy the items from the farmers.*/ 
 #include<iostream>
 #include<stdlib.h>
 #include<string>
